@@ -1,0 +1,13 @@
+# Generated sample keys for local practice only. Do not use in real apps.
+
+1)
+private: 38c4b945817695dc784da16d81df8a88fdffec2c5348c4180f9f0ff40c631add
+public:  034c9c3883f1622b95726fc3dbc1c8b73b3f44ae8d35c8945e7e2f5c8ceeec44cf
+
+2)
+private: 0da9e0a2698d9ccbbc312534ebe3d51cafcb41d8a7e44bddcd01ab0b0f7be6bb
+public:  031a62a5bf4941332e8b33f788432b4b5269be2102bad63b2f1a6c8cd7fd794915
+
+3)
+private: 6aa737eab54d21208fa29e96e9338cc8598d63437a3bba67061b92ffb1910bbc
+public:  020effd00d2ac4ad2084d9db5353fbaf2b74220b23ebc205d0b03c45b76f2d6f21
